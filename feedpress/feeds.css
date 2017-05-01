@@ -175,8 +175,7 @@ div#main {
 div#header {
     padding: 20px;
     margin: 16px auto;
-    background: rgba(255, 255, 255, 0.75);
-    border: 1px #d4d4d4;
+    background: #fafafa;
     *zoom: 1;
 }
 div#header:before,
