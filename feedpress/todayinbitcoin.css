@@ -151,11 +151,11 @@ html {
 a:link,
 a:visited,
 a:active {
-    color: #FFB629;
+    color: #003355;
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+    font-weight: bold;
 }
 body {
     margin: 0 auto;
