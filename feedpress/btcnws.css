@@ -175,7 +175,6 @@ div#main {
 div#header {
     padding: 20px;
     margin: 16px auto;
-    background: #fafafa;
     *zoom: 1;
 }
 div#header:before,
@@ -285,10 +284,7 @@ ul li.regularitem h5.itemposttime span {
     color: #333;
 }
 ul li.regularitem div.itemcontent {
-    font-size: 14px;
-    line-height: 130% ! important;
-    overflow: hidden;
-    width: 99%;
+    display: none;
 }
 ul li.regularitem div.itemcontent ul {
     list-style: square;
