@@ -153,9 +153,10 @@ a:visited,
 a:active {
     color: #003355;
     text-decoration: none;
+    font-weight: bold;
 }
 a:hover {
-    font-weight: bold;
+    font-style: italic;
 }
 body {
     margin: 0 auto;
